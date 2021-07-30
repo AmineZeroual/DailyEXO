@@ -29,7 +29,7 @@ class DetailScreen extends StatelessWidget {
             padding: EdgeInsets.symmetric(horizontal: 15.0),
             child: SingleChildScrollView(
               child: Column(
-                mainAxisAlignment: MainAxisAlignment.start,
+                
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   SizedBox(
